@@ -69,7 +69,7 @@ ChatApplication
 
 1️⃣ Clone Repository
 
-git clone https://github.com/yourusername/java-chat-application.git
+git clone https://github.com/puliteja2006/java-chat-application.git
 
 
 2️⃣ Open in NetBeans
