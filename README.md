@@ -102,7 +102,7 @@ Client 2  ─┘
 
 ### 1️⃣ Clone Repository
 
-git clone https://github.com/yourusername/chat-application.git
+git clone https://github.com/Puliteja2006/Java-Chat-Application
 
 ### 2️⃣ Open in IDE
 
