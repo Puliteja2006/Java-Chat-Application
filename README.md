@@ -160,8 +160,8 @@ This project was built to:
 **Puli Sai Srinivasa Teja**
 Software Development Engineer | Full Stack Developer
 
-* 💻 GitHub: https://github.com/yourusername
-* 🔗 LinkedIn: https://linkedin.com/in/yourprofile
+* 💻 GitHub: https://github.com/Puliteja2006
+* 🔗 LinkedIn: https://www.linkedin.com/in/puli-sai-srinivasa-teja-164189326
 
 
 ## ⭐ Support:
